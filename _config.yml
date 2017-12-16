@@ -3,8 +3,8 @@ permalink:           pretty
 
 # Setup
 title:               Post Mortem
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+tagline:             Bloging, learning, developing and designing
+url:                 http://geoffyuen.github.io
 paginate:            1
 baseurl:             ""
 
